@@ -1,9 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6699FF&width=1100&height=150&section=header&animation=fadeIn&descAlignY=57&descAlign=58)
-
-<p align="center"><img width="30%" src="https://github.com/sohimiin/YACJANGSU/assets/71215507/d525ae02-960d-4314-a6f0-f62b1aa1968c"></p><br>
-<h3 align="center">👋Welcome to YACJANGSU👋</h3>
-<h4 align="center">Team Name: YACJANGSU</h4>
-<h4 align="center">Project Name: YACJANGSU</h4>
+<div align=center>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=6699FF&width=1100&height=150&section=header&animation=fadeIn&descAlignY=57&descAlign=58" />
+</div>
+<div align=center>
+ <p><img width="30%" src="https://github.com/sohimiin/YACJANGSU/assets/71215507/d525ae02-960d-4314-a6f0-f62b1aa1968c"></p><br>
+ <h3>👋Welcome to YACJANGSU👋</h3>
+ <h4>Team Name: YACJANGSU</h4>
+ <h4>Project Name: YACJANGSU</h4>
+</div>
 
 -------------------------------------------
 
