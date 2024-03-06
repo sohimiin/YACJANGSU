@@ -34,6 +34,9 @@
 
 - 이소민
 > e-mail: somin9132@naver.com
+- 이준석
+> e-mail: jjunseok98@naver.com
+
 
 ---------------------------------------
 
